@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/beek.svg"
     },
     "footer": {
         "has_nav": true,
