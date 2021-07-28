@@ -1,7 +1,6 @@
 {
     "title": "Stackbit Starter Theme",
     "header": {
-        "title": "Starter",
         "has_nav": true,
         "nav_links": [
             {
